@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 # Thierno Mamadou Dian DIALLO
 
-### Ingénieur Réseaux et Cybersécurité
+### Ingénieur Réseaux, Sécurité Informatique et Cybersécurité
 
 ---
 
@@ -146,4 +146,4 @@ Formule mathématique développée pour faciliter le calcul mental des carrés d
 ---
 
 **Résumé:**
-Ingénieur Réseaux et Cybersécurité avec une solide expertise en conception, mise en œuvre et gestion de solutions technologiques avancées. Expérience diversifiée et polyvalente, renforcée par des certifications reconnues. Passionné par l'innovation et dédié à l'optimisation des systèmes informatiques pour la performance et la sécurité des entreprises.
+Ingénieur Réseaux, Sécurité Informatique et Cybersécurité avec une solide expertise en conception, mise en œuvre et gestion de solutions technologiques avancées. Expérience diversifiée et polyvalente, renforcée par des certifications reconnues. Passionné par l'innovation et dédié à l'optimisation des systèmes informatiques pour la performance et la sécurité des entreprises.
